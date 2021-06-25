@@ -1,0 +1,42 @@
+{
+  "Link": [{
+      "Img": "assets/images/icon/homepage.svg",
+      "Link": "/",
+      "Text": "Trang chủ"
+    },
+    {
+    "Img": "assets/images/icon/sell.svg",
+    "Link": "/sell",
+    "Text": "Mua nhà"
+  },
+  {
+    "Img": "assets/images/icon/rental.svg",
+    "Link": "/rent",
+    "Text": "Thuê"
+  },
+  {
+    "Img": "assets/images/icon/arrow.svg",
+    "Link": "/buy",
+    "Text": "Bán nhà"
+  },
+  {
+    "Img": "assets/images/icon/company.svg",
+    "Link": "/agency",
+    "Text": "Môi giới"
+  },
+  {
+    "Img": "assets/images/icon/team-management.svg",
+    "Link": "/about",
+    "Text": "Giới thiệu"
+  },
+  {
+    "Img": "assets/images/icon/phone.svg",
+    "Link": "/contact",
+    "Text": "Liên hệ"
+  },
+  {
+    "Img": "assets/images/icon/question.svg",
+    "Link": "/suport",
+    "Text": "Hỗ trợ"
+  }]
+}

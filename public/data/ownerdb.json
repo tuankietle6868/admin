@@ -1,0 +1,53 @@
+{
+  "Title": [{
+    "Class": "code",
+    "Text": "Mã tin"
+  },
+  {
+    "Class": "images",
+    "Text": "Hình ảnhh"
+  },
+  {
+    "Class": "text-center address",
+    "Text": "Địa chỉ"
+  },
+  {
+    "Class": "type",
+    "Text": "Loại BĐS"
+  },
+  {
+    "Class": "price",
+    "Text": "Giá"
+  },
+  {
+    "Class": "status",
+    "Text": "Trạng thái"
+  }],
+  "List": [{
+    "Code": "UDAKS1",
+    "Img": "assets/images/property/home.webp",
+    "Address": "Số 392 đường Trần Phú Phường Vĩnh Hải Tp. Nha Trang Tỉnh Khánh Hòa",
+    "Type": "Khu nghỉ dưỡng",
+    "Price": "2 tỷ",
+    "Status": "Đã duyệt",
+    "Class": "status-cf"
+  },
+  {
+    "Code": "ADYI23",
+    "Img": "assets/images/property/home-1.jpg",
+    "Address": "Số 512 đường Trần Phú Xã Phước Đồng Tp. Nha Trang Tỉnh Khánh Hòa",
+    "Type": "Biệt thự",
+    "Price": "44 tỷ",
+    "Status": "Đang duyệt",
+    "Class": "status-pd"
+  },
+  {
+    "Code": "H4KW51",
+    "Img": "assets/images/property/home-2.webp",
+    "Address": "Số 99 đường Võ Văn Kiệt phường An Hải Đông quận Sơn Trà TP. Đà Nẵng",
+    "Type": "Khu nghỉ dưỡng",
+    "Price": "18 tỷ",
+    "Status": "Từ chối",
+    "Class": "status-rf"
+  }]
+}

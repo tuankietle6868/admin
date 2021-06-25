@@ -1,0 +1,101 @@
+{
+  "Info": [{
+    "Img": "assets/images/Agency/8_34.png",
+    "Name": "Nguyễn Đức Tân",
+    "Totalrate": "27 Đánh giá",
+    "Join": "Tham gia BĐS từ 2016",
+    "Companyname": "Công ty cổ phần đầu tư và phát triển địa ốc Miền Đông Real",
+    "Sold": "99 căn nhà",
+    "Mail": "tannd@codosa.vn",
+    "Phone": "909 022 466",
+    "Content": "Sau khi xử lý tiếp thị cho một công ty bất động sản ở trường trung học, Tân đã phát triển niềm đam mê bất động sản và có được giấy phép ngay sau khi tốt nghiệp trung học. Anh đã dành thời gian làm việc cho một công ty khởi nghiệp ở khu vực Hồ Chí Minh, Tân mang đến nhiều kỹ năng đa dạng giúp giao dịch bất động sản trở nên đơn giản nhất có thể cho khách hàng của mình. Kiến thức rộng lớn của anh về khu vực Hồ Chí Minh kết hợp với kiến ​​thức sâu rộng của anh về quy trình bất động sản hợp lý hóa quy trình mua bán nhà cho khách hàng của anh."
+  }],
+  "Sold": [{
+    "Img": "assets/images/field/canho-2.jpg",
+    "Address": "Số 293 Đường Quang Trung Phường 10 Quận Gò Vấp Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/07/2020",
+    "Price": "9 tỷ"
+  },
+  {
+    "Img": "assets/images/field/villa-2.jpg",
+    "Address": "Số 1 Đường Hàm Nghi Phường Bến Nghé Quận 1 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "13/5/2020",
+    "Price": "99 tỷ"
+  },
+  {
+    "Img": "assets/images/field/knd.png",
+    "Address": "Số 999 Đường Nguyễn Hữu Cảnh Phường 28 Quận Bình Thạnh Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/01/2020",
+    "Price": "13 tỷ"
+  },
+  {
+    "Img": "assets/images/field/knd-2.jpg",
+    "Address": "Số 3 Đường Nguyễn Hữu Thọ Phường Tân Phong Quận 7 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/01/2019",
+    "Price": "5 tỷ"
+  },
+  {
+    "Img": "assets/images/field/nhapho-2.jpg",
+    "Address": "Số 1 Đường Điện Biên Phủ Phường 5 Quận 3 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/02/2018",
+    "Price": "8 tỷ"
+  }],
+  "Selling": [{
+    "Img": "assets/images/field/canho-2.jpg",
+    "Address": "Số 293 Đường Quang Trung Phường 10 Quận Gò Vấp Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/07/2020",
+    "Price": "9 tỷ"
+  },
+  {
+    "Img": "assets/images/field/villa-2.jpg",
+    "Address": "Số 1 Đường Hàm Nghi Phường Bến Nghé Quận 1 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "13/5/2020",
+    "Price": "99 tỷ"
+  },
+  {
+    "Img": "assets/images/field/knd.png",
+    "Address": "Số 999 Đường Nguyễn Hữu Cảnh Phường 28 Quận Bình Thạnh Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/01/2020",
+    "Price": "13 tỷ"
+  },
+  {
+    "Img": "assets/images/field/knd-2.jpg",
+    "Address": "Số 3 Đường Nguyễn Hữu Thọ Phường Tân Phong Quận 7 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/01/2019",
+    "Price": "5 tỷ"
+  },
+  {
+    "Img": "assets/images/field/nhapho-2.jpg",
+    "Address": "Số 1 Đường Điện Biên Phủ Phường 5 Quận 3 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/02/2018",
+    "Price": "8 tỷ"
+  }],
+  "Rate": [{
+    "Name": "Tuấn Kiệt",
+    "Date": "20/08/2020",
+    "Address": "Bán một căn nhà cho một gia đình vào ngày 28/07/2020 địa chỉ Số 293 Đường Quang Trung Phường 10 Quận Gò Vấp Thành phố Hồ Chí Minh",
+    "Content": "Đây là lần đầu tiên chúng tôi mua một ngôi nhà, Tân đã giúp tôi rất nhiều. Anh ta giải thích từng bước của quy trình và trả lời bất kỳ câu hỏi nào của chúng tôi. Anh là một nhà đàm phán phi thường và rất nhanh nhạy."
+  },
+  {
+    "Name": "Tuấn Kiệt",
+    "Date": "01/05/2020",
+    "Address": "Bán một căn nhà cho một gia đình vào ngày 12/04/2019 địa chỉ Số 3 Đường Nguyễn Hữu Thọ Phường Tân Phong Quận 7 Thành phố Hồ Chí Minh",
+    "Content": "Đây là lần đầu tiên chúng tôi mua một ngôi nhà, Tân đã giúp tôi rất nhiều. Anh ta giải thích từng bước của quy trình và trả lời bất kỳ câu hỏi nào của chúng tôi. Anh là một nhà đàm phán phi thường và rất nhanh nhạy."
+  },
+  {
+    "Name": "Tuấn Kiệt",
+    "Date": "15/12/2019",
+    "Address": "Bán một căn nhà cho một gia đình vào ngày 30/03/2019 địa chỉ Số 1 Đường Điện Biên Phủ Phường 5 Quận 3 Thành phố Hồ Chí Minh",
+    "Content": "Đây là lần đầu tiên chúng tôi mua một ngôi nhà, Tân đã giúp tôi rất nhiều. Anh ta giải thích từng bước của quy trình và trả lời bất kỳ câu hỏi nào của chúng tôi. Anh là một nhà đàm phán phi thường và rất nhanh nhạy."
+  }]
+}

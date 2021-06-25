@@ -1,0 +1,150 @@
+{
+  "Sell": [{
+    "Img": "assets/images/product/product-1.png",
+    "Price": "8.8 Tỷ",
+    "Views": "9123",
+    "Address": "Phường 7, Quận 3, TP. Hồ Chí Minh",
+    "Type": "Biệt thự",
+    "Details": "4 PN | 2 PT | 152,3"
+  },
+  {
+    "Img": "assets/images/product/product-2.png",
+    "Price": "2.2 Tỷ",
+    "Views": "5912",
+    "Address": "Phường 2, Quận 10, TP. Hồ Chí Minh",
+    "Type": "Văn phòng",
+    "Details": "3 PN | 2 PT | 111,9"
+  },
+  {
+    "Img": "assets/images/product/product-3.png",
+    "Price": "6.2 Tỷ",
+    "Views": "12321",
+    "Address": "Phường 11, Quận GV, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "3 PN | 3 PT | 127,7"
+  }],
+  "Rent": [{
+    "Img": "assets/images/product/product-4.png",
+    "Price": "20 Triệu/tháng",
+    "Views": "9989",
+    "Address": "Phường 9, Quận BT, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "2 PN | 1 PT | 85,8"
+  },
+  {
+    "Img": "assets/images/product/product-5.png",
+    "Price": "55 Triệu/tháng",
+    "Views": "18219",
+    "Address": "Phường 2, Quận 1, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "5 PN | 2 PT | 101,7"
+  },
+  {
+    "Img": "assets/images/product/product-6.png",
+    "Price": "30 Triệu/tháng",
+    "Views": "15983",
+    "Address": "Phường 7, Quận 9, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "4 PN | 2 PT | 99,5"
+  }],
+  "SildeApp": [{
+    "Class": "carousel-item active",
+    "Title1": "Ứng dụng",
+    "Title2": "BẤT ĐỘNG SẢN CÔNG NGHỆ",
+    "Content": "Là ứng dụng công nghệ đầu tiên tích hợp dữ liệu quản lý đất đai, chứng thực pháp lý, thẩm định giá tài sản nhằm nâng cao tính minh bạch cho thị trường, đảm bảo an toàn cho người mua bất động sản. Tìm kiếm bất động sản thông minh: định vị theo vị trí, thông tin minh bạch về: địa chính, pháp lý, thẩm định giá và lịch sử giao dịch trong quá khứ."
+  },
+  {
+    "Class": "carousel-item",
+    "Title1": "Ứng dụng",
+    "Title2": "BẤT ĐỘNG SẢN CÔNG NGHỆ",
+    "Content": "Là ứng dụng công nghệ đầu tiên tích hợp dữ liệu quản lý đất đai, chứng thực pháp lý, thẩm định giá tài sản nhằm nâng cao tính minh bạch cho thị trường, đảm bảo an toàn cho người mua bất động sản. Tìm kiếm bất động sản thông minh: định vị theo vị trí, thông tin minh bạch về: địa chính, pháp lý, thẩm định giá và lịch sử giao dịch trong quá khứ."
+  },
+  {
+    "Class": "carousel-item",
+    "Title1": "Ứng dụng",
+    "Title2": "BẤT ĐỘNG SẢN CÔNG NGHỆ",
+    "Content": "Là ứng dụng công nghệ đầu tiên tích hợp dữ liệu quản lý đất đai, chứng thực pháp lý, thẩm định giá tài sản nhằm nâng cao tính minh bạch cho thị trường, đảm bảo an toàn cho người mua bất động sản. Tìm kiếm bất động sản thông minh: định vị theo vị trí, thông tin minh bạch về: địa chính, pháp lý, thẩm định giá và lịch sử giao dịch trong quá khứ."
+  }],
+  "Project": [{
+    "Class": "carousel-item active",
+    "Img": "assets/images/field/duan.png",
+    "Title": "Dự án"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/duan-2.png",
+    "Title": "Dự án"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/duan-3.png",
+    "Title": "Dự án"
+  }],
+  "Villa": [{
+    "Class": "carousel-item active",
+    "Img": "assets/images/field/villa.png",
+    "Title": "Biệt thự"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/villa-2.jpg",
+    "Title": "Biệt thự"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/villa-3.jpg",
+    "Title": "Biệt thự"
+  }],
+  "Townhouse": [{
+    "Class": "carousel-item active",
+    "Img": "assets/images/field/nhapho.jpg",
+    "Title": "Nhà phố"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/nhapho-2.jpg",
+    "Title": "Nhà phố"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/nhapho-3.jpg",
+    "Title": "Nhà phố"
+  }],
+  "Resort": [{
+    "Class": "carousel-item active",
+    "Img": "assets/images/field/knd.png",
+    "Title": "Khu nghỉ dưỡng"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/knd-2.jpg",
+    "Title": "Khu nghỉ dưỡng"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/knd-3.jpg",
+    "Title": "Khu nghỉ dưỡng"
+  }],
+  "Apartment": [{
+    "Class": "carousel-item active",
+    "Img": "assets/images/field/canho.png",
+    "Title": "Căn hộ"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/canho-2.jpg",
+    "Title": "Căn hộ"
+  },
+  {
+    "Class": "carousel-item",
+    "Img": "assets/images/field/canho-3.jpg",
+    "Title": "Căn hộ"
+  }],
+  "Utilities": ["Môi giới", "Tư vấn phong thủy", "Vay vốn", "Nhà mẫu đẹp" ],
+  "Partner": [
+    "assets/images/logo/partner-1.png",
+    "assets/images/logo/partner-2.png",
+    "assets/images/logo/partner-3.jpg",
+    "assets/images/logo/partner-4.jpg"
+  ]
+}

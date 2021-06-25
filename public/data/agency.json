@@ -1,0 +1,54 @@
+{
+  "Recommend": [{
+    "Img": "assets/images/Agency/6_68.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Phan Thị Thảo Sương",
+    "Phone": "933 949 993",
+    "Totalrate": "27 đánh giá",
+    "Companyname": "Công ty cổ phần đầu tư và phát triển địa ốc Miền Đông Real"
+  },
+  {
+    "Img": "assets/images/Agency/6_68.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Phan Thị Thảo Sương",
+    "Phone": "933 949 993",
+    "Totalrate": "27 đánh giá",
+    "Companyname": "Công ty cổ phần đầu tư và phát triển địa ốc Miền Đông Real"
+  },
+  {
+    "Img": "assets/images/Agency/6_68.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Phan Thị Thảo Sương",
+    "Phone": "933 949 993",
+    "Totalrate": "27 đánh giá",
+    "Companyname": "Công ty cổ phần đầu tư và phát triển địa ốc Miền Đông Real"
+  }],
+  "Why": [{
+    "Titleright": "Kiến thức ở lĩnh vực bất động sản",
+    "Content": "Với kiến thức tốt, môi giới của chúng tôi sẽ mang lại cho bạn đầy đủ thông tin, cần thiết nhất đối với một bất động sản mà bạn đang muốn tìm mua."
+    },
+    {
+      "Titleright": "Dịch vụ tốt hơn với giá tốt hơn",
+      "Content": "Môi giới của chúng tôi gặp gỡ khách hàng trên trang web, vì vậy họ không dành thời gian tìm kiếm khách hàng mới, họ chỉ tập trung vào bạn."
+    },
+    {
+      "Titleright": "Hạnh phúc hơn trong ngôi nhà mới của bạn",
+      "Content":"Tỷ lệ hài lòng của khách hàng của chúng tôi luôn cao hơn so với đối thủ, nhờ vào công nghệ và môi giới của chúng tôi."
+    }],
+    "News": [{
+      "Img": "assets/images/news/news-1.jpg",
+      "Title": "TP.HCM giải tỏa 602 căn nhà tại nhiều quận để triển khai tuyến Metro số 2",
+      "Date": "Thị trường ngày 05/08/2020"
+    },
+    {
+      "Img": "assets/images/news/news-2.webp",
+      "Title": "TP.HCM công bố giá vật liệu xây dựng trên địa bàn trong quý II/2020",
+      "Date": "Thị trường ngày 05/08/2020"
+    },
+    {
+      "Img": "assets/images/news/news-3.webp",
+      "Title": "Chính thức: Từ 15/8, Bến Xe Miền Đông mới ở Quận 9 sẽ đi vào hoạt động",
+      "Date": "Thị trường ngày 05/08/2020"
+    }
+  ]
+}

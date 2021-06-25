@@ -1,0 +1,61 @@
+{
+  "Title": "Quận Thủ Đức",
+  "Result": "5,928",
+  "Sortby": [
+    "Mới nhất",
+    "Giá (Từ thấp đến cao)",
+    "Giá (Từ cao đến thấp)",
+    "Phòng ngủ",
+    "Phòng tắm",
+    "Diện tích",
+    "Lô"
+  ],
+  "Sell": [{
+    "Img": "assets/images/product/product-1.png",
+    "Price": "8.8 Tỷ",
+    "Views": "9123",
+    "Address": "Phường Linh Tây, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Biệt thự",
+    "Details": "4 PN | 2 PT | 152,3"
+  },
+  {
+    "Img": "assets/images/product/product-2.png",
+    "Price": "2.2 Tỷ",
+    "Views": "5912",
+    "Address": "Phường Linh Trung, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Văn phòng",
+    "Details": "3 PN | 2 PT | 111,9"
+  },
+  {
+    "Img": "assets/images/product/product-3.png",
+    "Price": "6.2 Tỷ",
+    "Views": "12321",
+    "Address": "Phường Bình Thọ, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "3 PN | 3 PT | 127,7"
+  },
+  {
+    "Img": "assets/images/product/product-4.png",
+    "Price": "20 Tỷ",
+    "Views": "9989",
+    "Address": "Phường Hiệp Bình Phước, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "2 PN | 1 PT | 85,8"
+  },
+  {
+    "Img": "assets/images/product/product-5.png",
+    "Price": "13 Tỷ",
+    "Views": "18219",
+    "Address": "Phường Trường Thọ, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "5 PN | 2 PT | 101,7"
+  },
+  {
+    "Img": "assets/images/product/product-6.png",
+    "Price": "6 Tỷ",
+    "Views": "15983",
+    "Address": "Phường Linh Xuân, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "4 PN | 2 PT | 99,5"
+  }]
+}

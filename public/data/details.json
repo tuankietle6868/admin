@@ -1,0 +1,272 @@
+{
+  "Details": [{
+    "Title1": "Loại hình",
+    "Text1": "Biệt thự",
+    "Title2": "Diện tích",
+    "Text2": "182.4 m2"
+  },
+  {
+    "Title1": "Phòng ngủ",
+    "Text1": "2",
+    "Title2": "Phòng tắm",
+    "Text2": "2"
+  },
+  {
+    "Title1": "Diện tích sàn",
+    "Text1": "147.2 m2",
+    "Title2": "Năm xây dựng",
+    "Text2": "2020"
+  }],
+  "Address": "Số 1 đường Nguyễn Lương Bằng Phường Tân Phú Quận 7 TP. Hồ Chí Minh",
+  "Infrastructure": [{
+    "Title1": "Hồ bơi",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Phòng Gym",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Siêu thị",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Chỗ gửi xe",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Khu vui chơi",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Camera an ninh",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Nhà trẻ",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Nhà hàng",
+    "Img2": "assets/images/icon/notfound.svg"
+  }],
+  "Utilities": [{
+    "Title1": "Trường học",
+    "Text1": "200m",
+    "Title2": "Trung tâm thương mại",
+    "Text2": "500m"
+  },
+  {
+    "Title1": "Bệnh viện",
+    "Text1": "400m",
+    "Title2": "Chợ",
+    "Text2": "1km"
+  },
+  {
+    "Title1": "Ngân hàng",
+    "Text1": "2km",
+    "Title2": "Công viên cây xanh",
+    "Text2": "150m"
+  },
+  {
+    "Title1": "Cửa hàng",
+    "Text1": "100m",
+    "Title2": "Trung tâm hành chính",
+    "Text2": "1.5km"
+  }],
+  "Furniture": [{
+    "Title1": "Bàn ăn",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Bàn trà",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Bàn ghế phòng khách",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Bàn làm việc",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Kệ Tivi",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Kệ sách",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Giường ngủ",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Tủ quần áo",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Tủ giày dép",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Đèn ngủ",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Bàn trang điểm",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Tranh treo tường",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Niệm, chăn, gối",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Gương",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Bồn tắm",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Bồn rửa mặt",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Bồn cầu",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Vòi tắm",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Tủ bếp",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Đèn trần",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Sàn gỗ",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Sàn gạch",
+    "Img2": "assets/images/icon/notfound.svg"
+  },
+  {
+    "Title1": "Sàn đá",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Chậu cây",
+    "Img2": "assets/images/icon/checklist.svg"
+  }],
+  "Item": [{
+    "Title1": "Tivi",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Tủ lạnh",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Máy giặt",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Bếp điện",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Máy lạnh",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Máy nước nóng",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Khóa cửa thông minh",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Máy sấy",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Lò nướng",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Lò vi sóng",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Rèm cửa",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Máy rửa chén",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Internet",
+    "Img1": "assets/images/icon/notfound.svg",
+    "Title2": "Camera an ninh",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Truyền hình cáp",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Thiết bị âm thanh",
+    "Img2": "assets/images/icon/checklist.svg"
+  },
+  {
+    "Title1": "Smart home",
+    "Img1": "assets/images/icon/checklist.svg",
+    "Title2": "Trợ lý ảo",
+    "Img2": "assets/images/icon/checklist.svg"
+  }],
+  "Carousel": [
+    "assets/images/lightgalley/home1.jpg",
+    "assets/images/lightgalley/home2.jpg",
+    "assets/images/lightgalley/home3.jpg",
+    "assets/images/lightgalley/home4.jpg",
+    "assets/images/lightgalley/indoor.jpg",
+    "assets/images/lightgalley/bed.jpg",
+    "assets/images/lightgalley/bed2.jpg",
+    "assets/images/lightgalley/bathroom.jpg",
+    "assets/images/lightgalley/bathroom1.jpg"
+  ],
+  "Around": [{
+    "Img": "assets/images/product/product-6.png",
+    "Price": "4.7 Tỷ",
+    "Views": "9123",
+    "Address": "Phường Tân Phú Quận 7 TP. Hồ Chí Minh",
+    "Type": "Biệt thự",
+    "Details": "2 PN | 1 PT | 92.9"
+  },
+  {
+    "Img": "assets/images/product/product-3.png",
+    "Price": "5.4 Tỷ",
+    "Views": "5912",
+    "Address": "Phường Tân Phong Quận 7 TP. Hồ Chí Minh",
+    "Type": "Văn phòng",
+    "Details": "3 PN | 2 PT | 113.3"
+  },
+  {
+    "Img": "assets/images/product/product-5.png",
+    "Price": "52 Tỷ",
+    "Views": "12321",
+    "Address": "Phường Tân Phú Quận 7 TP. Hồ Chí Minh",
+    "Type": "Biệt thự",
+    "Details": "3 PN | 3 PT | 104.2"
+  }],
+  "Sug": [{
+    "Img": "assets/images/product/product-1.png",
+    "Price": "17.3 Tỷ",
+    "Views": "9989",
+    "Address": "Phường 9, Quận BT, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "4 PN | 2 PT | 152,3"
+  },
+  {
+    "Img": "assets/images/lightgalley/villa.jpg",
+    "Price": "32 Tỷ",
+    "Views": "18219",
+    "Address": "Phường 2, Quận 10, TP. Hồ Chí Minh",
+    "Type": "Biệt thự",
+    "Details": "3 PN | 2 PT | 151,7"
+  },
+  {
+    "Img": "assets/images/lightgalley/villa-1.jpg",
+    "Price": "12 Tỷ",
+    "Views": "15983",
+    "Address": "Phường 11, Quận GV, TP. Hồ Chí Minh",
+    "Type": "Căn hộ",
+    "Details": "3 PN | 3 PT | 127,7"
+  }],
+  "Agency": [{
+    "Img": "assets/images/Agency/15-8.jpg",
+    "Name": "Nguyễn Kim Mai Phương",
+    "Phone": "964 031 390",
+    "Company": "Tập đoàn Codosa Holding"
+  },
+  {
+    "Img": "assets/images/Agency/17-5.jpg",
+    "Name": "Vũ Ngọc Anh",
+    "Phone": "947 069 494",
+    "Company": "Tập đoàn Codosa Tech"
+  },
+  {
+    "Img": "assets/images/Agency/18-9.jpg",
+    "Name": "Nguyễn Kim Thoa",
+    "Phone": "908 296 363",
+    "Company": "Tập đoàn Codosa Lands"
+  }]
+}

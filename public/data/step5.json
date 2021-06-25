@@ -1,0 +1,4 @@
+{
+  "Sell": ["Đồng/lô", "Triệu/lô", "Tỷ/lô", "Đồng/m2", "Triệu/m2", "Tỷ/m2", "Đồng", "Triệu", "Tỷ", "Thỏa thuận"],
+  "Rent": ["Đồng/tháng", "Triệu/tháng", "Đồng/m2/tháng", "Triệu/m2/tháng", "Thỏa thuận"]
+}

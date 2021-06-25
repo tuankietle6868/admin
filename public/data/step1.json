@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "RadioApartment",
+    "Name": "Căn hộ",
+    "Value": "Apartment"
+  },
+  {
+    "Id": "RadioVilla",
+    "Name": "Biệt thự",
+    "Value": "Villa"
+  },
+  {
+    "Id": "RadioOfficetel",
+    "Name": "Văn phòng",
+    "Value": "Officetel"
+  },
+  {
+    "Id": "RadioLands",
+    "Name": "Đất",
+    "Value": "Lands"
+  },
+  {
+    "Id": "RadioFactory",
+    "Name": "Nhà xưởng",
+    "Value": "Factory"
+  },
+  {
+    "Id": "RadioMotel",
+    "Name": "Phòng trọ",
+    "Value": "Motel"
+  }
+]

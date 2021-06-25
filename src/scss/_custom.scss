@@ -1,0 +1,106 @@
+/* For custom scrollbar for webkit browser*/
+
+::-webkit-scrollbar {
+  width: 6px;
+} 
+
+::-webkit-scrollbar-track {
+  background: #fff; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fa5757; 
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+background: #fa5757; 
+}
+/*  */
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+body {
+  outline: none;
+}
+
+.c-sidebar {
+  background: #fa5757 ;
+  .c-sidebar-nav-link {
+    color: #fff;
+    &:hover {
+      background: #d2d2d2;
+    }
+  }
+}
+
+.c-header {
+  background: linear-gradient( to right, #fa5757 0%, #ae2c30 100%);
+  .c-header-nav {
+    .c-header-nav-link {
+      color: #fff;
+      &:hover {
+        color: #bd0000;
+      }
+      &:focus {
+        color: #bd0000;
+      }
+    }
+  }
+}
+
+.c-subheader {
+  li {
+    a {
+      color: #d93737;
+    }
+  }
+}
+
+.c-app {
+  .btn-primary {
+    color: #fff;
+    background-color: #d93737;
+    border-color: #ae2c30;
+    &:hover {
+      border-color: #ae2c30;
+      background-color: #ae2c30;
+    }
+    &:focus {
+      outline: 0;
+    }
+  }
+  .btn {
+    margin: 0 10px;
+  }
+  .btn-link {
+    color: #d93737;
+    &:hover {
+      color: #bd0000;
+    }
+  }
+  .bg-primary {
+    background-color: #d93737 !important;
+  }
+  .input {
+    &:focus {
+      outline: 0 !important;
+    }
+  }
+}
+
+.page-item {
+  .page-link {
+    color: #d93737;
+  }
+}
+
+.c-footer {
+  a {
+    color: #bd0000;
+  }
+}

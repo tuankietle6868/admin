@@ -1,0 +1,48 @@
+{
+  "Thread": [
+    "Địa chỉ bất động sản",
+    "Đại diện",
+    "Ngày bán",
+    "Giá"
+  ],
+  "Property": [{
+    "Class": "row",
+    "Img": "assets/images/field/canho-2.jpg",
+    "Address": "Số 293 Đường Quang Trung Phường 10 Quận Gò Vấp Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/07/2020",
+    "Price": "9 tỷ"
+  },
+  {
+    "Class": "row",
+    "Img": "assets/images/field/villa-2.jpg",
+    "Address": "Số 1 Đường Hàm Nghi Phường Bến Nghé Quận 1 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "13/5/2020",
+    "Price": "99 tỷ"
+  },
+  {
+    "Class": "row old",
+    "Img": "assets/images/field/knd.png",
+    "Address": "Số 999 Đường Nguyễn Hữu Cảnh Phường 28 Quận Bình Thạnh Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/01/2020",
+    "Price": "13 tỷ"
+  },
+  {
+    "Class": "row old",
+    "Img": "assets/images/field/knd-2.jpg",
+    "Address": "Số 3 Đường Nguyễn Hữu Thọ Phường Tân Phong Quận 7 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "28/01/2019",
+    "Price": "5 tỷ"
+  },
+  {
+    "Class": "row old",
+    "Img": "assets/images/field/nhapho-2.jpg",
+    "Address": "Số 1 Đường Điện Biên Phủ Phường 5 Quận 3 Thành phố Hồ Chí Minh",
+    "Represented": "Người bán",
+    "Date": "20/02/2018",
+    "Price": "8 tỷ"
+  }]
+}

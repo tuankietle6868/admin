@@ -1,0 +1,92 @@
+{
+  "Recommend": [{
+    "Img": "assets/images/Agency/6_12.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Bùi Thị Hoài",
+    "Phone": "934 082 761",
+    "Totalrate": "127 đánh giá",
+    "Companyname": "Công ty cổ phần dịch vụ và xây dựng địa ốc Đất Xanh"
+  },
+  {
+    "Img": "assets/images/Agency/6_68.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Phan Thị Thảo Sương",
+    "Phone": "933 949 993",
+    "Totalrate": "88 đánh giá",
+    "Companyname": "Tập đoàn đầu tư bất động sản Novaland"
+  },
+  {
+    "Img": "assets/images/Agency/6_73.jpg",
+    "Recmd": "Đề xuất",
+    "Name": "Nguyễn Thị Ngọc Dung",
+    "Phone": "941 891 052",
+    "Totalrate": "72 đánh giá",
+    "Companyname": "Tập đoàn Vingroup"
+  }],
+  "List": [{
+    "Img": "assets/images/Agency/6_20.jpg",
+    "Name": "Nguyễn Quốc Thái",
+    "Phone": "901 458 697",
+    "Totalrate": "55 đánh giá",
+    "Sold": "Đã bán 32 bất động sản",
+    "Selling": "Hiện có 20 bất động sản đang bán",
+    "Daterate": "Đánh giá ngày 01/08/2020",
+    "Content": "Anh ấy cho chúng tôi trải nghiệm rất tốt trong việc giới thiệu đầy đủ thông tin về ngôi nhà, nhờ thông tin đầy đủ mà chúng tôi có thể quyết định mua nhà ngay sau khi xem."
+  },
+  {
+    "Img": "assets/images/Agency/6_11.jpg",
+    "Name": "Jennifer Ciacci",
+    "Phone": "938 138 1042",
+    "Totalrate": "32 đánh giá",
+    "Sold": "Đã bán 32 bất động sản",
+    "Selling": "Hiện có 20 bất động sản đang bán",
+    "Daterate": "Đánh giá ngày 01/08/2020",
+    "Content": "Anh ấy cho chúng tôi trải nghiệm rất tốt trong việc giới thiệu đầy đủ thông tin về ngôi nhà, nhờ thông tin đầy đủ mà chúng tôi có thể quyết định mua nhà ngay sau khi xem."
+  },
+  {
+    "Img": "assets/images/Agency/6_39.jpg",
+    "Name": "Đoàn Linh Phương",
+    "Phone": "906 267 541",
+    "Totalrate": "55 đánh giá",
+    "Sold": "Đã bán 32 bất động sản",
+    "Selling": "Hiện có 20 bất động sản đang bán",
+    "Daterate": "Đánh giá ngày 01/08/2020",
+    "Content": "Anh ấy cho chúng tôi trải nghiệm rất tốt trong việc giới thiệu đầy đủ thông tin về ngôi nhà, nhờ thông tin đầy đủ mà chúng tôi có thể quyết định mua nhà ngay sau khi xem."
+  },
+  {
+    "Img": "assets/images/Agency/6_28.jpg",
+    "Name": "Lê Thị Kim Tuyến",
+    "Phone": "919 73 55 77",
+    "Totalrate": "58 đánh giá",
+    "Sold": "Đã bán 32 bất động sản",
+    "Selling": "Hiện có 20 bất động sản đang bán",
+    "Daterate": "Đánh giá ngày 01/08/2020",
+    "Content": "Anh ấy cho chúng tôi trải nghiệm rất tốt trong việc giới thiệu đầy đủ thông tin về ngôi nhà, nhờ thông tin đầy đủ mà chúng tôi có thể quyết định mua nhà ngay sau khi xem."
+  },
+  {
+    "Img": "assets/images/Agency/6_88.jpg",
+    "Name": "Đinh Hữu Chí",
+    "Phone": "987 2277 27",
+    "Totalrate": "67 đánh giá",
+    "Sold": "Đã bán 32 bất động sản",
+    "Selling": "Hiện có 20 bất động sản đang bán",
+    "Daterate": "Đánh giá ngày 01/08/2020",
+    "Content": "Anh ấy cho chúng tôi trải nghiệm rất tốt trong việc giới thiệu đầy đủ thông tin về ngôi nhà, nhờ thông tin đầy đủ mà chúng tôi có thể quyết định mua nhà ngay sau khi xem."
+  }],
+  "Area": [{
+    "Img": "assets/images/Agency/team.jpg",
+    "Name": "Bình Dương"
+  },
+  {
+    "Img": "assets/images/Agency/team-1.jpg",
+    "Name": "Đồng Nai"
+  },
+  {
+    "Img": "assets/images/Agency/team-2.jpg",
+    "Name": "Vũng Tàu"
+  },
+  {
+    "Img": "assets/images/Agency/team-3.jpg",
+    "Name": "Long An"
+  }]
+}
